@@ -5,7 +5,7 @@ O **Bubble sort** é um algoritmo de ordenação simples e intuitivo que funcion
 
 Este algoritmo percorre a lista de itens ordenáveis do início ao fim, verificando a ordem dos elementos dois a dois, e trocando-os de lugar se necessário. Percorre-se a lista até que nenhum elemento tenha sido trocado de lugar na passagem anterior.
 
-![[Pasted image 20231202200417.png]]
+![code](https://www.researchgate.net/publication/348959084/figure/fig1/AS:986621331652608@1612240264456/Working-procedure-of-Bubble-Sort.ppm)
 
 ### Código em JavaScript
 ```js
